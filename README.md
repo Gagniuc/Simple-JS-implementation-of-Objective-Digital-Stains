@@ -5,7 +5,7 @@ Live demo: https://gagniuc.github.io/Simple-JS-implementation-of-Objective-Digit
 
 
 # Implementations - other
-The Objective Digital Stains are also implemented in two scripting languages, from which an entire customised application can be made.
+The Objective Digital Stains are also implemented in other languages, from which entire customised applications can be made.
 
 In Java Script:
 https://github.com/Gagniuc/Objective-Digital-Stains
@@ -20,19 +20,16 @@ https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6
  Please read more about DNA patterns (aka Objective Digital Stains) here:
  
  Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters: 
- 
  https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-13-512
  
  and 
  
  Gene promoters show chromosome-specificity and reveal chromosome territories in humans:
- 
  https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-278
  
  and
  
  Algorithms in Bioinformatics: Theory and Implementation:
- 
  https://www.wiley.com/en-ag/Algorithms+in+Bioinformatics%3A+Theory+and+Implementation-p-9781119697961
  
 
