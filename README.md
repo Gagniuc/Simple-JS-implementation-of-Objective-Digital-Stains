@@ -13,6 +13,9 @@ https://github.com/Gagniuc/Objective-Digital-Stains
 In PHP:
 https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP
 
+In VB6:
+https://github.com/Gagniuc/PromKappa-3.0-Objective-Digital-Stains-in-VB6
+
 # Info on ODSs
  Please read more about DNA patterns (aka Objective Digital Stains) here:
  
