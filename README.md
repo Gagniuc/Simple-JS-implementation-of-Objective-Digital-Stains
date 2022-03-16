@@ -12,7 +12,7 @@ https://gagniuc.github.io/Simple-JS-implementation-of-Objective-Digital-Stains/
 
 # Screenshot
 
-<kbd><img src="https://github.com/Gagniuc/Simple-JS-implementation-of-Objective-Digital-Stain-ODS-/blob/main/Objective%20Digital%20Stains.PNG" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Simple-JS-implementation-of-Objective-Digital-Stains/blob/main/img/Objective%20Digital%20Stains.png?raw=true" /></kbd>
 
 # Implementations - other
 
@@ -34,7 +34,6 @@ The Objective Digital Stains are also implemented in other languages, from which
 
 - [Algorithms in Bioinformatics: Theory and Implementation](https://www.wiley.com/en-ag/Algorithms+in+Bioinformatics%3A+Theory+and+Implementation-p-9781119697961)
  
-
 # References
 
 - <i>Gagniuc P.A. and Ionescu-Tirgoviste C.: Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters. BMC Genomics 2012, 13:512.</i>
